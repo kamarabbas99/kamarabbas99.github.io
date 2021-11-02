@@ -36,7 +36,8 @@ gym flooring website(https://fitfloor.com/).
 Science | 2021-2022
 * **Volunteered at Coffee Informational
 Workshop**, STEM | 2020
-* **ICM Orientation Leader**, International College of Manitoba | 2019
+* **ICM Orientation Leader**, International College of
+*  Manitoba | 2019
 
 
 ### Skills
