@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
 ### Education
 #### University of Manitoba
 **Bachlor of Science,	Computer Science**
-January 2019 - Present	|	Winnipeg,	MB
+January 2019 - Present	|	Winnipeg,	MB  <br />
 Cummulative	GPA:	4.18/4.5
 
 
