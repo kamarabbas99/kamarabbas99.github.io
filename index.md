@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 [kamsaiyed.netlify.app](https://kamsaiyed.netlify.app/)	| +1204202####	|	saiyedka@myumanitoba.ca 	|	 [LinkedIn](https://www.linkedin.com/in/kam-saiyed-578373178/)
 ### Education
 #### University of Manitoba
-**Bachlor of Science,	Computer Science**
+**Bachlor of Science,	Computer Science** <br />
 January 2019 - Present	|	Winnipeg,	MB  <br />
 Cummulative	GPA:	4.18/4.5
 
