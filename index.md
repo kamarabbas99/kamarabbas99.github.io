@@ -35,14 +35,14 @@ gym flooring website(https://fitfloor.com/).
 Science | 2021-2022
 2. **Volunteered at Coffee Informational
 Workshop**, STEM | 2020
-3. **ICM Orientation Leader** | 2019
+3. **ICM Orientation Leader**, International College of Manitoba | 2019
 
 
 ### Skills
 **PROGRAMMING**<br />
-Java • Processing • C • C++ • JavaScript •	Prolog • HTML • CSS • SASS • Bootstrap• React • Wordpress • Github • GitBash• Assembly • VS Code • IntelliJ • Eclipse • LaTeX • Netlify
+Java • Processing • C • C++ • JavaScript •	Prolog • HTML • CSS • SASS • Bootstrap• React • Wordpress • Github • GitBash• Assembly • VS Code • IntelliJ • Eclipse • LaTeX • Netlify<br />
 **SOFT SKILLS**<br />
-Creativity • Communication • Leadership • Teamwork • Organization • WorkEthic• Problem-Solving • Adaptability
+Creativity • Communication • Leadership • Teamwork • Organization • WorkEthic• Problem-Solving • Adaptability<br />
 **LANGUAGES**<br />
 English • Hindi • Urdu • Gujrati
 
