@@ -32,12 +32,12 @@ gym flooring website(https://fitfloor.com/).
 * Perform duties including content management and data entry on a daily basis.
 
 ### VOLUNTEER EXP.
-* **Inter-club Liason**, Women in Computer
+1. **Inter-club Liason**, Women in Computer
 Science | 2021-2022
-* **Volunteered at Coffee Informational
+2. **Volunteered at Coffee Informational
 Workshop**, STEM | 2020
-* **ICM Orientation Leader**, International College of
-*  Manitoba | 2019
+3. **ICM Orientation Leader**, International College of
+   Manitoba | 2019
 
 
 ### Skills
