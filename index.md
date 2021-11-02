@@ -16,14 +16,14 @@ Cummulative	GPA:	4.18/4.5
 
 ### Experience
 #### Academic Tutor
-**Academic Learning Centre, UofM**
+**Academic Learning Centre, UofM**<br />
 January 2021 - Present	|	Winnipeg,	MB
 * Provided content and study skills tutoring to fist and second year students.
 *  Work one-to-one with students on course content.
 * Model effective problem solving strategies.
 
 #### Web Developer
-**Kipling Media**
+**Kipling Media**<br />
 April 2020 - April 2020	|	Vancouver,	BC
 * Used technologies such as WordPress,SASS,bootstrap,PHP and GitHub to
 assist in developing custom websites for a variety of businesses.
