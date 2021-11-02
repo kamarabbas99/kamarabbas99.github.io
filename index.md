@@ -31,7 +31,7 @@ gym flooring website(https://fitfloor.com/).
 * Perform duties including content management and data entry on a daily basis.
 
 ### VOLUNTEER EXP.
-1.  **Inter-club Liason**, Women in Computer
+1. **Inter-club Liason**, Women in Computer
 Science | 2021-2022
 2. **Volunteered at Coffee Informational
 Workshop**, STEM | 2020
@@ -39,11 +39,11 @@ Workshop**, STEM | 2020
 
 
 ### Skills
-**PROGRAMMING**
+**PROGRAMMING**<br />
 Java • Processing • C • C++ • JavaScript •	Prolog • HTML • CSS • SASS • Bootstrap• React • Wordpress • Github • GitBash• Assembly • VS Code • IntelliJ • Eclipse • LaTeX • Netlify
-**SOFT SKILLS**
+**SOFT SKILLS**<br />
 Creativity • Communication • Leadership • Teamwork • Organization • WorkEthic• Problem-Solving • Adaptability
-**LANGUAGES**
+**LANGUAGES**<br />
 English • Hindi • Urdu • Gujrati
 
 
@@ -51,9 +51,9 @@ English • Hindi • Urdu • Gujrati
 
 
 ### Personal Projects
-1. **GO GREEN**	| HTML, CSS, SASS, BOOTSTRAP
+1. **GO GREEN**, Technologies: HTML, CSS, SASS, BOOTSTRAP
 	* Participated in CUSEC Hackathon to educate climate change.
    * Single-handedly made website within 24 hrs.
-2. **PERSONAL WEBSITE**	| HTML, CSS, SASS, BOOTSTRAP
+2. **PERSONAL WEBSITE**, Technologies: HTML, CSS, SASS, BOOTSTRAP
 	* Personal Portfolio website made to display my projects.
     * Forked from a existing repository to display my profile.
