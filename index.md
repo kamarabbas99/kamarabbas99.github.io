@@ -21,7 +21,8 @@ January 2021 - Present	|	Winnipeg,	MB
 * Provided content and study skills tutoring to fist and second year students.
 *  Work one-to-one with students on course content.
 * Model effective problem solving strategies.
-#### Web developer
+
+#### Web Developer
 **Kipling Media**
 April 2020 - April 2020	|	Vancouver,	BC
 * Used technologies such as WordPress,SASS,bootstrap,PHP and GitHub to
