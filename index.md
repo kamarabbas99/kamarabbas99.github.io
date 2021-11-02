@@ -1,13 +1,9 @@
 
 #  *Kam* Saiyed
-<style>
-h1, h2, h3, h4, h5, h6 {
-    margin: 0;
-}
-</style>
 
 [kamsaiyed.netlify.app](https://kamsaiyed.netlify.app/)	| +1204202####	|	saiyedka@myumanitoba.ca 	|	 [LinkedIn](https://www.linkedin.com/in/kam-saiyed-578373178/)
 ### Education
+___
 #### University of Manitoba
 **Bachlor of Science,	Computer Science** <br />
 January 2019 - Present	|	Winnipeg,	MB  <br />
@@ -15,6 +11,7 @@ Cummulative	GPA:	4.18/4.5
 
 
 ### Experience
+___
 #### Academic Tutor
 **Academic Learning Centre, UofM**<br />
 January 2021 - Present	|	Winnipeg,	MB
@@ -32,6 +29,7 @@ gym flooring website(https://fitfloor.com/).
 * Perform duties including content management and data entry on a daily basis.
 
 ### VOLUNTEER EXP.
+___
 1. **Inter-club Liason**, Women in Computer
 Science | 2021-2022
 2. **Volunteered at Coffee Informational
