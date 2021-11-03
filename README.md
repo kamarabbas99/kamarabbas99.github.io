@@ -31,12 +31,14 @@ First of all you would require a resume formatted in a ightweight markup languag
   *  Go to github.com and click on **signup for github**
 
 
-  </br>![Github](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/Screenshot%202021-11-02%20175305.png)
+  </br>
+  ![Github](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/Screenshot%202021-11-02%20175305.png)
 </br>
   * Create your account by entering your email, chosing a password and a unique username.
 
 
-  </br>![Account](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/Screenshot%202021-11-02%20175740.png)
+  </br>
+  ![Account](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/Screenshot%202021-11-02%20175740.png)
   </br>
 3. **Creating Repository** :- After creating github account signin using the credentials.</br>  
    * On the main page click on new beside the repository section
@@ -46,7 +48,7 @@ First of all you would require a resume formatted in a ightweight markup languag
    ![Repo](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/Screenshot%202021-11-02%20180053.png)
    </br>
    * Enter the repository name as username.github.io
-   * </br>
+    </br>
 
 
    ![Name](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/assig2.gif)
