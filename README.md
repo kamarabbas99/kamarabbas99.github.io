@@ -85,6 +85,7 @@ You can also upload a readme.md file or choose to edit the default readme.md pro
    
    
    And Done! Get ready to be hired.</br>
+   ![resume](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/assig5.gif)
 7. **Choosing a different theme for the static site** 
 
 ## More Resourses
