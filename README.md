@@ -50,15 +50,14 @@ First of all you would require a resume formatted in a ightweight markup languag
 
 
    ![Name](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/assig2.gif)
-  </br>   **Note** :- you cannot use any other name as repository name.
+    **Note** :- you cannot use any other name as repository name.
   
 4. **Uploading resume** :- To the newly created repository the resume can be uploaded by Add file-> Upload files</br>
 
 
-![Upload](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/assig3.gif)
-</br>
+![Upload](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/assig3.gif)</br>
    **Note** :- The name of the resume file should always be index.md as it is a requirement for the next step.
-You can also upload a readme.md file or choose to edit the default readme.md provided by github.
+    You can also upload a readme.md file or choose to edit the default readme.md provided by github.
 
 5. **Hosting it using Github pages**:- As Andrew Etter said, "You should build and host a website, not distribute PDFs, but it bears repeating. Even the best documentation, like software, eventually goes out of date." Therefore we can create a static website and host it on github pages. Etter further added that static websites are simple, portable, secure and have no database or server side dependencies. Github pages is really cool static site generator and also provides some of the jekyll themes. If you want to use your own custom theme then refer to the link in  [**More Resourses**](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/README.md#more-resourses) section</br>
   Go to settings from the repository page</br>
@@ -88,7 +87,6 @@ You can also upload a readme.md file or choose to edit the default readme.md pro
    
    And Done! Get ready to be hired.</br>
    ![resume](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/assig5.gif)
-6. **Choosing a different theme for the static site** 
 
 ## More Resourses
 
@@ -122,3 +120,6 @@ processor?</br>
 	_There can be mainly two reasons for resume not showing up._
 	   * _Make sure the name of your repository is in the format username.github.io_ 
 	    * _After commiting it might take several minitues(10-20 mins) to actually reflect those changes on the live site. So wait for few more minitues then open the website and press Ctrl+Shift+R to refresh the page and clear cache from the previous visit._
+3. Should I make a custom jekyll theme?How?</br>  
+
+	_This is entirely your choice if you think you are comfortable with HTML and CSS, then you can go ahead and make your own theme suitable to your resume. [This](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/) tutorial will walk you through the process of creating your first jekyll template._
