@@ -1,5 +1,5 @@
 
-# Formating and Hosting a Resume
+# Formating and Hosting a Resume using github pages
 
 ## Purpose
 This document will demonstrate the practical steps of how to host and format a resume using different technologies(or software). We are going to use markdown language for editing, a markdown editor, Github pages, and Jekyll(a static site generator). Furthermore, this document will also entail general principles of current Technical Writing, as
@@ -15,7 +15,7 @@ explained in Andrew Etter’s book Modern Technical Writing and relate to the pr
 
 ### Prerequisites
 
-Requirements to fulfill this project
+Requirements to fulfill this project are:
 * **Markdown Editor** :- You would require a basic markdown editor which can be [Markdown Pad](http://www.markdownpad.com/)(as suggested by Andrew Etter) or [stackio](https://stackedit.io/)(an online collaborative markdown editor)
 * **Resume formatted in Markdown** :- We would require a resume formatted in markdown language and a tutorial on how to use markdown is attached in the [**More Resources**](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/README.md#more-resourses) section.
 
@@ -39,7 +39,7 @@ First of all, you would require a resume formatted in a lightweight markup langu
   ![Account](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/Screenshot%202021-11-02%20175740.png)
   </br>
 3. **Creating Repository** :- After creating github account signin using the credentials.</br>  
-   * On the main page click on new beside the repository section
+   * On the main page click on new  beside the repository section
     </br>
     
     
@@ -50,7 +50,7 @@ First of all, you would require a resume formatted in a lightweight markup langu
 
 
    ![Name](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/assig2.gif)
-    **Note** :- you cannot use any other name as repository name.
+    **Note** :- You cannot use any other name as repository name.
   
 4. **Uploading resume** :- To the newly created repository the resume can be uploaded by Add file-> Upload files</br>
 
@@ -65,7 +65,7 @@ First of all, you would require a resume formatted in a lightweight markup langu
   
   ![settings](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/S4.png)
   </br>
-  Then, click on pages </br>
+  Then, click on pages section</br>
   
   
    ![pages](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/S5.png)
