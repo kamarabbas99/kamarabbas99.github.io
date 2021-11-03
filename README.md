@@ -28,16 +28,14 @@ First of all you would require a resume formatted in a ightweight markup languag
 ![Live Preview](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/assig1.gif)
 
 2. **Making github account** :- We are going to be using Github as it is most widely Distributed Version Control in the market. Etter metions in his book that, " DVCS(Distributed Version Control) have better performance, allow for offline work, and are superior for concurrent work on the same file. For technical writers, the most important reason to use DVCS is that developers prefer them." Resume and most of the other documents needs to be updated regulary and hence a using a DVC can be really helpful to keep track of the progress.</br>
-  *  Go to github.com and click on **signup for github**
-
-
-  </br>
-  ![Github](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/Screenshot%202021-11-02%20175305.png)
+  *  Go to github.com and click on **signup for github**</br>
+ 
+ ![Github](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/Screenshot%202021-11-02%20175305.png)
 </br>
-  * Create your account by entering your email, chosing a password and a unique username.
+  * Create your account by entering your email, chosing a password and a unique username.</br>
 
 
-  </br>
+  
   ![Account](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/Screenshot%202021-11-02%20175740.png)
   </br>
 3. **Creating Repository** :- After creating github account signin using the credentials.</br>  
