@@ -23,6 +23,8 @@ Requirements to fulfil this project
 1. **Creating resume**
 First of all you would require a resume formatted in a ightweight markup language known as markdown language. According to Andrew Etter, "The entire point of lightweight markup is to make it easier to produce well-formed XML, and we need XML in order to build websites." Additionally, Markdown is the most widely used lightweight markup language in the world2 and has the cleanest syntax. Therefore we will be using this language to create the resume so we can build a static site for hosting our resume later on. Any editor mentioned in the [**Prerequisites**](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/README.md#prerequisites) section can be used which has a live preview tool to track your progress.
 </br>This gif shows live preview in StackEdit which is a really cool feature.</br>
+
+
 ![Live Preview](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/media/assig1.gif)
 
 2. **Making github account** :- We are going to be using Github as it is most widely Distributed Version Control in the market. Etter metions in his book that, " DVCS(Distributed Version Control) have better performance, allow for offline work, and are superior for concurrent work on the same file. For technical writers, the most important reason to use DVCS is that developers prefer them." Resume and most of the other documents needs to be updated regulary and hence a using a DVC can be really helpful to keep track of the progress.</br>
