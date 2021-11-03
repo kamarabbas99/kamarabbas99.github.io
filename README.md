@@ -6,22 +6,22 @@ This document will demonstrate the practical steps of how to host and format a r
 explained in Andrew Etter’s book Modern Technical Writing and relate to the practical steps which we are going to follow.
 
 ## Table of Contents
- * **Prerequisites**
- * **Instructions**
- * **More Resourses**
- * **Authors**
- *  **Acknowledgemets**
- * **FAQs**
+ * [**Prerequisites**](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/README.md#prerequisites)
+ * [**Instructions**](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/README.md#instructions)
+ * [**More Resourses**](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/README.md#more-resourses)
+ * [**Authors**](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/README.md#authors)
+ *  [**Acknowledgemets**](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/README.md#acknowledgements)
+ * [**FAQs**](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/README.md#faqs)
 
 ### Prerequisites
 
 Requirements to fulfil this project
 * **Markdown Editor** :- You would require a basic markdown editor which can be [Markdown Pad](http://www.markdownpad.com/)(as suggested by Andrew Etter) or [stackio](https://stackedit.io/)(an online collaborative markdown editor)
-* **Resume formatted in Markdown** :- We would require a resume formatted in markdown language and tutorial on how to use markdown is attached in the **More Resourses ** section.
+* **Resume formatted in Markdown** :- We would require a resume formatted in markdown language and tutorial on how to use markdown is attached in the [**More Resourses **](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/README.md#more-resourses) section.
 
 ### Instructions
 1. **Creating resume**
-First of all you would require a resume formatted in a ightweight markup language known as markdown language. According to Andrew Etter, "The entire point of lightweight markup is to make it easier to produce well-formed XML, and we need XML in order to build websites." Additionally, Markdown is the most widely used lightweight markup language in the world2 and has the cleanest syntax. Therefore we will be using this language to create the resume so we can build a static site for hosting our resume later on. Any editor mentioned in the **Prerequisites** section can be used which has a live preview tool to track your progress.
+First of all you would require a resume formatted in a ightweight markup language known as markdown language. According to Andrew Etter, "The entire point of lightweight markup is to make it easier to produce well-formed XML, and we need XML in order to build websites." Additionally, Markdown is the most widely used lightweight markup language in the world2 and has the cleanest syntax. Therefore we will be using this language to create the resume so we can build a static site for hosting our resume later on. Any editor mentioned in the [**Prerequisites**](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/README.md#prerequisites) section can be used which has a live preview tool to track your progress.
 This gif shows live preview in StackEdit which is a really cool feature.
 2. **Making github account** :- We are going to be using Github as it is most widely Distributed Version Control in the market. Etter metions in his book that, " DVCS(Distributed Version Control) have better performance, allow for offline work, and are superior for concurrent work on the same file. For technical writers, the most important reason to use DVCS is that developers prefer them." Resume and most of the other documents needs to be updated regulary and hence a using a DVC can be really helpful to keep track of the progress.
   *  Go to github.com and click on **signup for github**
@@ -33,7 +33,7 @@ This gif shows live preview in StackEdit which is a really cool feature.
 4. **Uploading resume** :- To the newly created repository the resume can be uploaded by Add file-> Upload files
    **Note** :- The name of the resume file should always be index.md as it is a requirement for the next step.
 You can also upload a readme.md file or choose to edit the default readme.md provided by github.
-5. **Hosting it using Github pages**:- As Andrew Etter said, "You should build and host a website, not distribute PDFs, but it bears repeating. Even the best documentation, like software, eventually goes out of date." Therefore we can create a static website and host it on github pages. Etter further added that static websites are simple, portable, secure and have no database or server side dependencies. Github pages is really cool static site generator and also provides some of the jekyll themes. If you want to use your own custom theme then refer to the link in **More Resources** section
+5. **Hosting it using Github pages**:- As Andrew Etter said, "You should build and host a website, not distribute PDFs, but it bears repeating. Even the best documentation, like software, eventually goes out of date." Therefore we can create a static website and host it on github pages. Etter further added that static websites are simple, portable, secure and have no database or server side dependencies. Github pages is really cool static site generator and also provides some of the jekyll themes. If you want to use your own custom theme then refer to the link in  [**More Resourses **](https://github.com/kamarabbas99/kamarabbas99.github.io/blob/main/README.md#more-resourses) section
   Go to settings from the repository page
   Then, click on pages
    Select the theme from a list of jekyll theme available
